@@ -1,0 +1,53 @@
+{
+    "fruits": [
+      {
+        "id": 0,
+        "title": "Banana",
+        "icon": "🍌",
+        "body":
+          "Vestibulum luctus euismod ultrices. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      {
+        "id": 1,
+        "title": "Lemon",
+        "icon": "🍋",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      {
+        "id": 2,
+        "title": "Pear",
+        "icon": "🍐",
+        "body":
+          "Vestibulum luctus euismod ultrices. Nam placerat semper risus, nec blandit purus suscipit nec. Integer varius egestas rhoncus."
+      },
+      {
+        "id": 3,
+        "title": "Strawberry",
+        "icon": "🍓",
+        "body":
+          "Fusce sagittis, nisl commodo bibendum tempor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris pharetra lobortis facilisis."
+      },
+      {
+        "id": 4,
+        "title": "Tangerine",
+        "icon": "🍊",
+        "body":
+          "Curabitur pharetra nulla risus, id gravida erat molestie sit amet. Sed tortor metus, sagittis in varius vel, pharetra venenatis tortor. Aenean diam mauris, hendrerit sed laoreet vitae, posuere lobortis tortor. Ut gravida vestibulum consectetur."
+      },
+      {
+        "id": 5,
+        "title": "Grapes",
+        "icon": "🍇",
+        "body":
+          "Mauris ultrices magna eget ex auctor, in convallis eros condimentum."
+      },
+      {
+        "id": 6,
+        "title": "Watermelon",
+        "icon": "🍉",
+        "body":
+          "Pellentesque risus lectus. Cras scelerisque et augue et pharetra. Maecenas facilisis tempor diam at egestas. Aliquam fermentum interdum augue eget varius. Nunc vestibulum mi nibh."
+      }
+    ]
+  }
+  
